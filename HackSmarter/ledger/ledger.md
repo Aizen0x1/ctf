@@ -394,9 +394,3 @@ This chain is entirely preventable at three separate points. Fixing any one of t
 - [Certipy](https://github.com/ly4k/Certipy)
 - [xfreerdp](https://www.freerdp.com/)
 
-## References
-
-- [Certified Pre-Owned — ESC1 (SpecterOps)](https://posts.specterops.io/certified-pre-owned-d95910965cd2)
-- [Certipy documentation](https://github.com/ly4k/Certipy)
-- [MITRE ATT&CK T1649 — Steal or Forge Authentication Certificates](https://attack.mitre.org/techniques/T1649/)
-- [MITRE ATT&CK T1087.002 — Account Discovery: Domain Account](https://attack.mitre.org/techniques/T1087/002/)
