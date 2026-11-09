@@ -635,3 +635,7 @@ C:\Users\Administrator\Desktop> type "C:/Users/Administrator/Desktop/root.txt"
 
 HSM{13c4897877292fc104173ad41e4d166a}
 ```
+
+
+For more information about checking for privilege-escalation paths involving the Backup Operators group, see:
+https://www.hackingarticles.in/windows-privilege-escalation-sebackupprivilege/
