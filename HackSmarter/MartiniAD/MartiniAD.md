@@ -2,7 +2,7 @@
 
 
 
-![martini](ima/image.png)
+![martini](img/image.png)
 **Lab:** MartiniAD
 
 **Target:** `DC01.DRY.MARTINI.BARS`
