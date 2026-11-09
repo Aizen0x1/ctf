@@ -1,6 +1,6 @@
 # Ledger
 
-![image.png](Ledger/image.png)
+![Screenshot of the app](images/screenshot.png)
 
 ### ADCS ESC1 to Domain Admin
 
