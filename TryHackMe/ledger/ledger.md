@@ -1,12 +1,12 @@
 ---
-title: "2 Ledger — ADCS ESC1 to Domain Admin"
+title: "Ledger — ADCS ESC1 to Domain Admin"
 date: 2026-11-09
 description: "A full walkthrough of the Labyrinth Active Directory box: anonymous SMB/LDAP enumeration, leaked credentials, an ESC1-vulnerable certificate template, and privilege escalation to Domain Admin with Certipy."
 tags: [ctf, tryhackme, active-directory, adcs, esc1, certipy, windows]
 cover: "2%20Ledger/image.png"
 ---
 
-![2 Ledger](2%20Ledger/image.png)
+![Screenshot of the app](images/screenshot.png)
 
 # 2 Ledger — ADCS ESC1 to Domain Admin
 
