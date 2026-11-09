@@ -1,7 +1,6 @@
 # Ledger
 
-![Screenshot of the app](images/screenshot.png)
-
+![Ledger screenshot](img/image.png)
 ### ADCS ESC1 to Domain Admin
 
 A Windows Active Directory box where an anonymous SMB null session opens the door to LDAP enumeration, a password leaked in a user object gives us a foothold, and a misconfigured certificate template (ESC1) turns that foothold into Domain Admin — without ever cracking a single hash.
