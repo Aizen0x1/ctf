@@ -207,7 +207,7 @@ LDAP user enumeration
 
 Scrolling through the output, two user objects stand out — their **description** field contains what looks a lot like a password:
 
-![image.png](Ledger/image%201.png)
+![Ledger screenshot](img/image1.png)
 
 ```
 IVY_WILLIS:CHANGEME2023!
