@@ -11,7 +11,7 @@ Easy ad lab by xjr
 # -Generate hosts file
 
 ```jsx
- nxc smb 10.0.22.196 u 'Guest' -p '' --generate-hosts-file host.txt
+ nxc smb 10.0.22.196 -u 'Guest' -p '' --generate-hosts-file host.txt
 SMB         10.0.22.196    445    DC01             [*] Windows 11 / Server 2025 Build 26100 x64 (name:DC01) (domain:kitsune.local) (signing:True) (SMBv1:None) (Null Auth:True)
 SMB         10.0.22.196    445    DC01             [+] kitsune.local\Guest:
 ```
